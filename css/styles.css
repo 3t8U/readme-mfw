@@ -1,0 +1,18 @@
+#toy {
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+.jumbotron {
+  background: url('../img/guy.gif');
+  background-repeat: no-repeat;
+  background-size: contain;
+  
+}
+
+span {
+  color: green;
+}
